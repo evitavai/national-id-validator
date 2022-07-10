@@ -1,7 +1,7 @@
 package com.evita.idvalidator.validators;
 
-import org.springframework.stereotype.Component;
 import com.evita.idvalidator.validators.exeption.ControlDigitException;
+import org.springframework.stereotype.Component;
 
 @Component
 public class ControlDigitValidator implements Validator {

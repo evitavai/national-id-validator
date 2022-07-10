@@ -1,6 +1,6 @@
 package com.evita.idvalidator.validators;
 
-import com.evita.idvalidator.validators.exeption.*;
+import com.evita.idvalidator.validators.exeption.ValidationException;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 
